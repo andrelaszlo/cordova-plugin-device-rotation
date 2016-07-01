@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-device-rotation",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-device-rotation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Gives information about device orientation: is it facing up or down?"
+}
