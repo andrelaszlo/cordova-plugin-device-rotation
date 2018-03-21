@@ -1,11 +1,25 @@
 {
   "name": "cordova-plugin-device-rotation",
   "version": "0.0.1",
+  "description": "Gives Cordova developers information about device orientation: is it facing up or down?",
   "cordova": {
     "id": "cordova-plugin-device-rotation",
     "platforms": [
       "android"
     ]
   },
-  "description": "Gives information about device orientation: is it facing up or down?"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelaszlo/cordova-plugin-device-rotation.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "André Laszlo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrelaszlo/cordova-plugin-device-rotation/issues"
+  },
+  "homepage": "https://github.com/andrelaszlo/cordova-plugin-device-rotation#readme"
 }
